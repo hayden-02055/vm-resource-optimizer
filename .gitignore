@@ -1,0 +1,6 @@
+data/
+# Large datasets (GitHub 100MB/file limit)
+data/
+.DS_Store
+__pycache__/
+*.pyc
